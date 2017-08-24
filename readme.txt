@@ -9,6 +9,4 @@ my age is 31
 my address is nankou road
 
 
-my company is cloudcentury
-
-fuck u
+my company is cloudcentu
